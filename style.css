@@ -1,0 +1,14 @@
+body {
+    background-color: #f3e2f1;
+    font-family: Arial, sans-serif;
+    
+}
+
+table {
+    border: black 1px solid;
+}
+
+td {
+    border: black 1px solid;
+    padding: 5px;
+}
