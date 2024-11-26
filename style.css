@@ -4,11 +4,11 @@ body {
     
 }
 
-table {
+table, th, td {
     border: black 1px solid;
 }
 
-td {
-    border: black 1px solid;
-    padding: 5px;
+th, td {
+    padding: 10px;
 }
+
